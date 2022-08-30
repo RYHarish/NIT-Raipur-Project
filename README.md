@@ -1,1 +1,1 @@
-# NIT-Raipur-Project
+# Protein Structure and function Prediction
